@@ -1,0 +1,11 @@
+D:\AMIKOM\SEMSTER 3\PL\CalculatorApp\CalculatorAPP\CalculatorAPP\bin\Debug\CalculatorAPP.exe.config
+D:\AMIKOM\SEMSTER 3\PL\CalculatorApp\CalculatorAPP\CalculatorAPP\bin\Debug\CalculatorAPP.exe
+D:\AMIKOM\SEMSTER 3\PL\CalculatorApp\CalculatorAPP\CalculatorAPP\bin\Debug\CalculatorAPP.pdb
+D:\AMIKOM\SEMSTER 3\PL\CalculatorApp\CalculatorAPP\CalculatorAPP\obj\Debug\CalculatorAPP.csprojAssemblyReference.cache
+D:\AMIKOM\SEMSTER 3\PL\CalculatorApp\CalculatorAPP\CalculatorAPP\obj\Debug\CalculatorAPP.FrmEntryCalculator.resources
+D:\AMIKOM\SEMSTER 3\PL\CalculatorApp\CalculatorAPP\CalculatorAPP\obj\Debug\CalculatorAPP.FrmHasilPerhitungan.resources
+D:\AMIKOM\SEMSTER 3\PL\CalculatorApp\CalculatorAPP\CalculatorAPP\obj\Debug\CalculatorAPP.Properties.Resources.resources
+D:\AMIKOM\SEMSTER 3\PL\CalculatorApp\CalculatorAPP\CalculatorAPP\obj\Debug\CalculatorAPP.csproj.GenerateResource.cache
+D:\AMIKOM\SEMSTER 3\PL\CalculatorApp\CalculatorAPP\CalculatorAPP\obj\Debug\CalculatorAPP.csproj.CoreCompileInputs.cache
+D:\AMIKOM\SEMSTER 3\PL\CalculatorApp\CalculatorAPP\CalculatorAPP\obj\Debug\CalculatorAPP.exe
+D:\AMIKOM\SEMSTER 3\PL\CalculatorApp\CalculatorAPP\CalculatorAPP\obj\Debug\CalculatorAPP.pdb
